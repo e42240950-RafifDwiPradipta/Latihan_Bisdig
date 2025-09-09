@@ -1,8 +1,13 @@
-h1 {
-color: red;
-text-align: left;
-font-size: 8pt
+#page-container { width: 760px; margin: auto; background: red;
 }
-h1 {
-text-align: right;
-font-size: 20pt }
+#header {
+background: blue;
+height: 150px;
+}
+#content {
+background: green;
+}
+#footer {
+background: orange;
+height: 66px;
+}
